@@ -483,7 +483,7 @@ msgstr "トランザクションの配信に成功しました。<br>トラン�
 #: public/views/block_list.html public/views/index.html
 #: public/views/status.html
 msgid "Transactions"
-msgstr "トランザクション"
+msgstr "トランザクション数"
 
 #: public/views/transaction/tx.html
 msgid "Type"
@@ -527,7 +527,7 @@ msgstr "トランザクションを待っています..."
 
 #: public/views/block_list.html
 msgid "by date."
-msgstr "日毎。"
+msgstr "日毎"
 
 #: public/views/transaction/tx.html
 msgid "first seen at"
