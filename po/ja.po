@@ -75,7 +75,7 @@ msgstr "最良ブロック"
 
 #: public/views/messages_verify.html
 msgid "BitZeny comes with a way of signing arbitrary messages."
-msgstr "BitZenyには任意のメッセージを署名する昨日が備わっています。"
+msgstr "BitZenyには任意のメッセージを署名する機能が備わっています。"
 
 #: public/views/status.html
 msgid "BitZeny node information"
